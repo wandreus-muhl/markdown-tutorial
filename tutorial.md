@@ -46,4 +46,4 @@ Na lista não ordenada abaixo - definida com o caractere `*`, estão listados al
 
 * Imagens: para adicionar imagens em um documento, utiliza-se o caractere `!` juntamente com um texto-âncora, resultando em: `![Título da imagem](URL da mesma)` 
 
-![Gatinho](https://images.app.goo.gl/kWALT4zircx3bd3c6)
+![Gatinho](https://www.zooplus.pt/magazine/wp-content/uploads/2021/03/kitten-sitzt-boden-768x512-1.jpeg)
