@@ -43,3 +43,7 @@ Na lista não ordenada abaixo - definida com o caractere `*`, estão listados al
 | `git add` | Adiciona as modificações para a área de *staging* do repositório local |
 | `git commit` | Transforma as alterações da área de *staging* em um *commit* |
 | `git push` | Envia os *commits* para o repositório central |
+
+* Imagens: para adicionar imagens em um documento, utiliza-se o caractere `!` juntamente com um texto-âncora, resultando em: `![Título da imagem](URL da mesma)` 
+
+![Gatinho](https://images.app.goo.gl/kWALT4zircx3bd3c6)
