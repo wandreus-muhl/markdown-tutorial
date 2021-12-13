@@ -25,7 +25,7 @@ Na lista não ordenada abaixo - definida com o caractere ``*``, estão listados 
     - Inline: utiliza-se dois caracteres `` ` `` no início e final do trecho 
         > Para instalar as dependências dessa aplicação execute ``npm install``
     - Bloco: para definir um bloco de código, utiliza-se três caracteres `` ` `` ou `` ~ `` no início e final do bloco. Também é possível definir a linguagem em que o trecho será escrito, basta adicionar o nome da linguagem depois de abrir o bloco de código com `` ` `` ou `` ~ ``
-     > ~~~javascript
+     ~~~javascript
         const express = require('express')
 
         const app = express()
@@ -34,3 +34,11 @@ Na lista não ordenada abaixo - definida com o caractere ``*``, estão listados 
         app.use(express.urlencoded({
         extended: true
         }))
+    ~~~
+
+* Tabelas: para definir tabelas em Markdown, usa-se o caractere ``|`` para delimitar as colunas, após isso, utiliza-se o ``-`` para indicar que acima está o título das colunas, e abaixo o conteúdo das mesmas
+ Exemplo | Valor 
+ --- | ---
+ A | 1 
+ B | 2 
+ C | 3 
